@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mjmiki/SpringmvcDocument/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# **SpringMVC-Demo**
 
-### Markdown
+- 本文档是 ```SpringMVC```框架的课堂笔记<br>为大家提供一个较完整的在线笔记<br>笔记来源于B站SpringMVC教程，下面是视频链接
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[![](https://res.mowangblog.top/img/2021/10/bilibili-video-orange)](https://www.bilibili.com/video/BV1Ry4y1574R)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjmiki/SpringmvcDocument/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[GitHub](https://github.com/mowangblog/SpringMVC-Demo)
+[开始阅读](?id=spring-mvc-demo)
